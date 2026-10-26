@@ -26,3 +26,4 @@ airflow/data/
 airflow/dbt/target/
 airflow/dbt/logs/
 .astro/
+airflow/dbt/profiles.yml
