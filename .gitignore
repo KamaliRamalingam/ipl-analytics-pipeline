@@ -10,8 +10,7 @@ __pycache__/
 dbt/profiles.yml
 
 # Airflow
-airflow/logs/
-airflow/.astro/
+logs/
 
 # dbt
 dbt/target/
@@ -22,8 +21,5 @@ dbt/dbt_packages/
 data/
 dbt/logs/
 dbt/.user.yml
-airflow/data/
-airflow/dbt/target/
-airflow/dbt/logs/
 .astro/
-airflow/dbt/profiles.yml
+
